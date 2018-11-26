@@ -8,3 +8,4 @@ applications:
       - route: hello-pcf-upgrade-spontaneous-cheetah.cfapps.io
     env:
       management.endpoints.web.exposure.include: env
+
