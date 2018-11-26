@@ -3,6 +3,8 @@ applications:
   - name: hello-pcf-upgrade
     path: build/libs/hello-pcf-upgrade-0.0.1-SNAPSHOT.jar
     buildpack: java_buildpack
-    random-route: true
+    random-route: false
+    routes:
+      - route: hello-pcf-upgrade-spontaneous-cheetah.cfapps.io
     env:
       management.endpoints.web.exposure.include: env
