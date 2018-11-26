@@ -35,7 +35,7 @@ public class HelloPcfUpgradeApplication {
                 + "M]    .MMMMMMMMMMMMMMMMMMMM#     MMMMMMMMMMMMb       .dMMMMMMMMMMMNJ.           ..MMMMMMMMN.          .MMMMMMN,.      JMMF    .MMMMF    .M\n"
                 + "MNMMMMNMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMNMMMMMMMMMMMNNMMMMMNMMMMMMMMMNMMMMNM\n"
                 + "\r\n" + "Current app version = " + app_ver + "\r\n" + "Current java version = " + java_ver + "\r\n"
-                + "App index = " + app_index + "\r\n" + "App host = " + app_host;
+                + "App index = " + app_index + "\r\n" + "App host = " + app_host + "Let's eat ramen!";
     }
 
     public static void main(String[] args) {
